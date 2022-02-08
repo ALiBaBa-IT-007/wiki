@@ -1,0 +1,12 @@
+# Wiki知识库系统
+## 前后端分离开发
+* springboot作为后端只提供接口供前端调用
+* vue作为前端和后端进行联调
+## 技术栈
+* Springboot
+* Maven
+* mysql8.0
+* Vue
+* ElementUI
+* Node
+* Webpack
